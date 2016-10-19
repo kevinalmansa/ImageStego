@@ -1,0 +1,47 @@
+# intellij configuration files
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+
+# pyenv
+.python-version
+
+ virtualenv
+.venv/
+venv/
+ENV/
+
+# Files I used for testing. I don't own the images used, thus I will not redistribute them
+misc/Debug/*
+misc/Images/*
+misc/Stego/*
